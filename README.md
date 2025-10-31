@@ -19,9 +19,7 @@ Its purpose is to provide a clear and organized overview of my educational and p
 
 ## Thanks
 
-- I would like to express my sincere gratitude to all the people who supported, guided, and encouraged me throughout these accomplishments and during my professional transition into software development.
-<br>
-Your advice, mentorship, and friendship have been invaluable on this journey.
+- I would like to express my sincere gratitude to all the people who supported, guided, and encouraged me throughout these accomplishments and during my professional transition into software development. Your advice, mentorship, and friendship have been invaluable on this journey.
 
 ## Author(s)
 
