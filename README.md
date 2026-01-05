@@ -8,14 +8,16 @@ Its purpose is to provide a clear and organized overview of my educational and p
 
 ## File Description
 
-| **FILE**                                                 | **DESCRIPTION**                                                             |
-| :------------------------------------------------------: | --------------------------------------------------------------------------- |
-| `holberton_school-foundations_of_computer_science.webp`  | First-year diploma from Holberton School (Foundations of Computer Science). |
-| `README.md`                                              | The README file you are currently reading 😉.                               |
+| **FILE**                                                | **DESCRIPTION**                                                             |
+| :-----------------------------------------------------: | --------------------------------------------------------------------------- |
+| `holberton_school-foundations_of_computer_science.webp` | First-year diploma from Holberton School (Foundations of Computer Science). |
+| `ibm_skillsbuild-introduction_to_open_source.pdf`       | IBM SkillsBuild certification covering the fundamentals of open source      |
+| `README.md`                                             | The README file you are currently reading 😉.                               |
 
 ## Diplomas & Certifications
 
 ![Holberton School - Foundations of Computer Science](./holberton_school-foundations_of_computer_science.webp)
+![IBM SkillsBuild - Introduction to Open Source](./ibm_skillsbuild-introduction_to_open_source.webp)
 
 ## Thanks
 
