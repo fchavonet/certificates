@@ -6,13 +6,6 @@ This repository gathers all my certifications, diplomas, and professional achiev
 
 Its purpose is to provide a clear and organized overview of my educational and professional milestones in software development and related fields.
 
-## File Description
-
-| **FILE**      | **DESCRIPTION**                                   |
-| :-----------: | ------------------------------------------------- |
-| `assets`    | Contains the resources required for the repository. |
-| `README.md` | The README file you are currently reading 😉.       |
-
 ## Diplomas & Certifications
 
 #### First-year diploma from Holberton School (Foundations of Computer Science).
@@ -22,6 +15,13 @@ Its purpose is to provide a clear and organized overview of my educational and p
 #### IBM SkillsBuild certification covering the fundamentals of open source.
 
 ![IBM SkillsBuild - Introduction to Open Source](./assets/images/ibm_skillsbuild-introduction_to_open_source.webp)
+
+## File Description
+
+| **FILE**      | **DESCRIPTION**                                   |
+| :-----------: | ------------------------------------------------- |
+| `assets`    | Contains the resources required for the repository. |
+| `README.md` | The README file you are currently reading 😉.       |
 
 ## Thanks
 
