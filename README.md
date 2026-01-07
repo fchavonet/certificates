@@ -14,6 +14,10 @@ Its purpose is to provide a clear and organized overview of my educational and p
 
 #### IBM SkillsBuild certification covering the fundamentals of open source.
 
+![IBM SkillsBuild - Agile Explorer](./assets/images/ibm_skillsbuild-agile_explorer.webp)
+
+#### IBM SkillsBuild certification covering the fundamentals of open source.
+
 ![IBM SkillsBuild - Introduction to Open Source](./assets/images/ibm_skillsbuild-introduction_to_open_source.webp)
 
 ## File Description
