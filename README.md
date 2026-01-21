@@ -8,17 +8,26 @@ Its purpose is to provide a clear and organized overview of my educational and p
 
 ## Diplomas & Certifications
 
-#### First-year diploma from Holberton School (Foundations of Computer Science).
-
-![Holberton School - Foundations of Computer Science](./assets/images/holberton_school-foundations_of_computer_science.webp)
-
-#### IBM SkillsBuild certification covering the fundamentals of open source.
-
-![IBM SkillsBuild - Agile Explorer](./assets/images/ibm_skillsbuild-agile_explorer.webp)
-
-#### IBM SkillsBuild certification covering the fundamentals of open source.
-
-![IBM SkillsBuild - Introduction to Open Source](./assets/images/ibm_skillsbuild-introduction_to_open_source.webp)
+<table>
+    <tr>
+        <td>First-year diploma from Holberton School (Foundations of Computer Science)</td>
+        <td>
+            <img src="./assets/images/holberton_school-foundations_of_computer_science.webp" width="120" />
+        </td>
+    </tr>
+    <tr>
+        <td>IBM SkillsBuild - Agile Explorer</td>
+        <td>
+            <img src="./assets/images/ibm_skillsbuild-agile_explorer.webp" width="120" />
+        </td>
+    </tr>
+    <tr>
+        <td>IBM SkillsBuild - Introduction to Open Source</td>
+        <td>
+            <img src="./assets/images/ibm_skillsbuild-introduction_to_open_source.webp" width="120" />
+        </td>
+    </tr>
+</table>
 
 ## File Description
 
