@@ -16,12 +16,6 @@ Its purpose is to provide a clear and organized overview of my educational and p
         </td>
     </tr>
     <tr>
-        <td>IBM SkillsBuild - Agile Explorer</td>
-        <td>
-            <img src="./assets/images/ibm_skillsbuild-agile_explorer.webp" width="120" />
-        </td>
-    </tr>
-    <tr>
         <td>IBM SkillsBuild - Introduction to Cloud</td>
         <td>
             <img src="./assets/images/ibm_skillsbuild-introduction_to_cloud.webp" width="120" />
@@ -37,6 +31,18 @@ Its purpose is to provide a clear and organized overview of my educational and p
         <td>IBM SkillsBuild - SQL and Relational Database 101</td>
         <td>
             <img src="./assets/images/ibm_skillsbuild-sql_and_relational_database_101.webp" width="120" />
+        </td>
+    </tr>
+        <tr>
+        <td>IBM SkillsBuild - Agile Explorer</td>
+        <td>
+            <img src="./assets/images/ibm_skillsbuild-agile_explorer.webp" width="120" />
+        </td>
+    </tr>
+        <tr>
+        <td>IBM SkillsBuild - Project Management Fundamentals</td>
+        <td>
+            <img src="./assets/images/ibm_skillsbuild-project_management_fundamentals.webp" width="120" />
         </td>
     </tr>
 </table>
