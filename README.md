@@ -22,6 +22,12 @@ Its purpose is to provide a clear and organized overview of my educational and p
         </td>
     </tr>
     <tr>
+        <td>IBM SkillsBuild - Introduction to Cloud</td>
+        <td>
+            <img src="./assets/images/ibm_skillsbuild-introduction_to_cloud.webp" width="120" />
+        </td>
+    </tr>
+    <tr>
         <td>IBM SkillsBuild - Introduction to Open Source</td>
         <td>
             <img src="./assets/images/ibm_skillsbuild-introduction_to_open_source.webp" width="120" />
