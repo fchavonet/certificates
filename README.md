@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository gathers all my certifications, diplomas, and professional achievements earned throughout my journey as a Full Stack Developer trainee at Holberton School, as well as from other training programs and self-learning experiences.
+This repository gathers all my certifications, diplomas, and professional achievements earned throughout my journey a developer trainee at Holberton School, as well as from other training programs and self-learning experiences.
 
 Its purpose is to provide a clear and organized overview of my educational and professional milestones in software development and related fields.
 
@@ -13,6 +13,12 @@ Its purpose is to provide a clear and organized overview of my educational and p
         <td>First-year diploma from Holberton School (Foundations of Computer Science)</td>
         <td>
             <img src="./assets/images/holberton_school-foundations_of_computer_science.webp" width="120" />
+        </td>
+    </tr>
+    <tr>
+        <td>Second-year diploma from Holberton School (Full Stack Web Development Specialization)</td>
+        <td>
+            <img src="./assets/images/holberton_school-full_stack_web_development_specialization.webp" width="120" />
         </td>
     </tr>
     <tr>
