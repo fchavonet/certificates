@@ -10,13 +10,19 @@ Its purpose is to provide a clear and organized overview of my educational and p
 
 <table>
     <tr>
-        <td>First-year diploma from Holberton School (Foundations of Computer Science)</td>
+        <td>Diploma from Holberton School (Foundations of Computer Science)</td>
         <td>
             <img src="./assets/images/holberton_school-foundations_of_computer_science.webp" width="120" />
         </td>
     </tr>
+     <tr>
+        <td>Diploma from Holberton School (Augmented and Virtual Reality Specialization)</td>
+        <td>
+            <img src="./assets/images/holberton_school-augmented_and_virtual_reality_specialization.webp" width="120" />
+        </td>
+    </tr>
     <tr>
-        <td>Second-year diploma from Holberton School (Full Stack Web Development Specialization)</td>
+        <td>Diploma from Holberton School (Full Stack Web Development Specialization)</td>
         <td>
             <img src="./assets/images/holberton_school-full_stack_web_development_specialization.webp" width="120" />
         </td>
